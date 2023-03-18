@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JavaScript Animated Counter</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header class="heading">
+    <h1>Our Social Presence</h1>
+  </header>
+  <main class="counter-container">
+    <div class="social">
+      <div class="social-icon">
+        <i class="fab fa-youtube"></i>
+      </div>
+      <p>Subscribers</p>
+      <h3 class="counter" data-count="21035">0</h3>
+    </div>
+    <div class="social">
+      <div class="social-icon">
+        <i class="fab fa-twitter"></i>
+      </div>
+      <p>Followers</p>
+      <h3 class="counter" data-count="8025">0</h3>
+    </div>
+    <div class="social">
+      <div class="social-icon">
+        <i class="fab fa-facebook"></i>
+      </div>
+      <p>Likes</p>
+      <h3 class="counter" data-count="125312">0</h3>
+    </div>
+    <div class="social">
+      <div class="social-icon">
+        <i class="fab fa-linkedin"></i>
+      </div>
+      <p>Connections</p>
+      <h3 class="counter" data-count="625">0</h3>
+    </div>
+  </main>
+</body>
+
+</html>
+
